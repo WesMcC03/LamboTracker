@@ -1,5 +1,6 @@
 body {
     width: 100%;
+    background: url("https://www.topgear.com/sites/default/files/styles/large/public/cars-car/carousel/2018/04/blu_astraeus_interior_01.jpg?itok=86S4L8q-")
 
 
 }
@@ -8,15 +9,28 @@ body {
     width: 960px;
     height: auto;
     text-align: center;
+   
 }
 
 table {
     text-align: left;
     border: 10 solid black;
+    background: whitesmoke;
 
 }
 
-form {
+#formdisplay {
     text-align: left;
+    width: auto;
     border: 10 solid black;
+    background: rgb(63, 60, 60);
+    
+}
+
+#tabledisplay {
+   
+    
+    border: 10 solid black;
+    background: rgb(65, 61, 61);
+
 }
